@@ -29,14 +29,14 @@ export const features = [
   },
   {
     id: "feature-2",
-    icon: '/send.svg',
+    icon: '/Send.svg',
     title: "Tanpa Jarak",
     content:
       "Apa pun transaksinya, blu selalu ada di genggaman tanganmu",
   },
   {
     id: "feature-3",
-    icon: '/shield.svg',
+    icon: '/Shield.svg',
     title: "Selalu Sigap",
     content:
       "Kamu butuh bantuan soal blu? Tenang, ada tim haloblu yang selalu sigap bantu kamu!",
