@@ -5,7 +5,9 @@ import Image from "next/image";
 const Billing = () => (
   <section id="product" className={layout.sectionReverse}>
     <div className={layout.sectionImgReverse}>
-      <img src="header_carousel_bluloyalty_ea16629356.webp" alt="billing" className="w-[100%] h-[100%] relative z-[5]" />
+      <img src="header_carousel_bluloyalty_ea16629356.webp" alt="billing" className="w-full h-auto relative z-[5] "width="800" height="400"  />
+     
+
         
       {/* gradient start */}
       <div className="absolute z-[3] -left-1/2 top-0 w-[50%] h-[50%] rounded-full white__gradient" />
