@@ -79,7 +79,7 @@ const AboutPage = () => {
             />
           <div className="bg-gray-100 p-4 rounded-lg">
             <h3 className="text-lg font-semibold">Nugroho Budiman</h3>
-            <p className="text-sm text-gray-600">Legal and Litigation</p>
+            <p className="text-sm text-gray-600">Legal and Compliance</p>
             <p className="mt-2">Oversee compliance from OJK and Bank Litigation Case</p>
           </div>
         </div>

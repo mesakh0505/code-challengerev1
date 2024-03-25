@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { GoDotFill } from "react-icons/go";
 import { FaArrowTurnDown } from "react-icons/fa6";
-import { HiPaperAirplane } from "react-icons/hi2";
+
 
 
 export default function Products() {
@@ -90,12 +90,6 @@ export default function Products() {
                                     <div className='text-center md:text-end text-white mb-[3%] md:mb-[1%]'>
                                     Personalisasi Tujuanmu
                                     </div>
-                                    <div className='text-center md:text-end text-white mb-[3%] md:mb-[1%]'>
-                                       
-                                    </div>
-                                    <div className='text-center md:text-end text-white mb-[3%] md:mb-[1%]'>
-                                       
-                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -114,9 +108,7 @@ export default function Products() {
                     <div className="flex flex-wrap flex-col">
                         <div className='font extrabold text-center md:text-start text-white text-[50px]'>
                             Blue Bisnis
-                        <p>Rekening Bisnis Untuk Sobat Blue</p>
-                
-                            
+                        <p>Rekening Bisnis Untuk Sobat Blue</p>    
                             <div className='flex flex-wrap justify-center md:justify-start pt-[2px] mb-[35px]'>
                                 <hr className='text-center text-white h-[5px] w-[78px]' />
                             </div>
@@ -130,7 +122,6 @@ export default function Products() {
                                     <div className='text-center md:text-justify text-white mb-[3%] md:mb-[1%]'>
                                         Tersedia Business Kit Untuk Menunjangmu
                                     </div>
-        
                                 </div>
                             </div>
                         </div>

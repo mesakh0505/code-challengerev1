@@ -90,27 +90,27 @@ export const stats = [
 
 export const footerLinks = [
   {
-    title: "Useful Links",
+    title: "Fitur",
     links: [
       {
-        name: "Content",
-        link: "https://www.hoobank.com/content/",
+        name: "Tabungan",
+        link: "https://blubybcadigital.id/fitur/tabungan/bluaccount",
       },
       {
-        name: "How it Works",
-        link: "https://www.hoobank.com/how-it-works/",
+        name: "Asuransi",
+        link: "https://blubybcadigital.id/fitur/asuransi/bluinsurance",
       },
       {
-        name: "Create",
+        name: "Pinjaman",
         link: "https://www.hoobank.com/create/",
       },
       {
-        name: "Explore",
-        link: "https://www.hoobank.com/explore/",
+        name: "Kartu",
+        link: "https://blubybcadigital.id/fitur/kartu/bluvirtual-card",
       },
       {
-        name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
+        name: "Investasi",
+        link: "https://blubybcadigital.id/fitur/investasi/bluinvest",
       },
     ],
   },
@@ -119,33 +119,33 @@ export const footerLinks = [
     links: [
       {
         name: "Profil",
-        link: "https://www.hoobank.com/help-center/",
+        link: "https://bcadigital.co.id/profil",
       },
       {
         name: "Tata Kelola",
-        link: "https://www.hoobank.com/partners/",
+        link: "https://bcadigital.co.id/tata-kelola",
       },
       {
         name: "Laporan",
-        link: "https://www.hoobank.com/suggestions/",
+        link: "https://bcadigital.co.id/laporan",
       },
       {
         name: "Kontak",
-        link: "https://www.hoobank.com/blog/",
+        link: "https://bcadigital.co.id/kontak",
       },
       
     ],
   },
   {
-    title: "Partner",
+    title: "Info",
     links: [
       {
-        name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
+        name: "FAQ",
+        link: "https://blubybcadigital.id/info/faq",
       },
       {
         name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
+        link: "https://blubybcadigital.id/info/term",
       },
     ],
   },
